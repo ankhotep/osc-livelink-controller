@@ -1,4 +1,6 @@
-To make facecontrol work, it must be extracted at the root of the C:\ drive.
+FaceControl
+
+It is recommended to be extracted at the root of the C:\ drive.
 
 It should look like this:
 
