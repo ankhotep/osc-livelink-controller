@@ -16,7 +16,7 @@ pip install python-osc
 
 known bugs: unable to retrieve temperature and battery levels.
 
-<img src="./livelink.png" width="39%"/> 
+<img src='./livelink.png' width='39%'/> 
 
 <img src="./livelink.png" width="39%"/><br>
 
