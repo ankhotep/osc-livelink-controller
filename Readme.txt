@@ -16,4 +16,4 @@ pip install python-osc
 
 known bugs: unable to retrieve temperature and battery levels.
 
-[logo]: https://raw.githubusercontent.com/ankhotep/osc-livelink-mocap-controller-ios/0de2d766e4aebc1e3491c1d4fd101b84c4139813/livelink.png "Logo Title Text 2"
+[logo]: https://github.com/ankhotep/osc-livelink-mocap-controller-ios/blob/main/livelink.png "Logo Title Text 2"
