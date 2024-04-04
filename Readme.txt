@@ -4,7 +4,7 @@ This tool helps you put a name, and record your clips using your Livelink mocap 
 
 It is recommended to be extracted at the root of the C:\ drive.
 
-It should look like this:
+If using Windows the program should be located like this:
 
 C:\FaceControl\client.py
 
